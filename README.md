@@ -2,7 +2,7 @@
 A dreamer in code and a poet in logic.  
 By sunrise, architecting elegant systems in **Python**, **Go**, and **Rust**;  
 by moonlight, composing lyrical scripts that sing in terminals and hearts alike.
-[My site(https://bebrik.com/)]
+[!My site(https://bebrik.com/)]
 ---
 
 ## ⚙️ Tech Stack
